@@ -6,7 +6,7 @@
 **Frontend Tehnologies** - HTML5, CSS3, Bootstrap 4, Angular 8 \
 **Database** - In Memory Database - *H2* \
 **Unit Testing** - JUnit, Mockito \
-**Other Technologies** - REST API, Eureka Discovery Server, Swagger UI, Spring Cloud Config, Spring Security \
+**Other Technologies** - REST API, Eureka Discovery Server, Swagger UI, Spring Cloud Config, Spring Security
 
 # The application has following services:
 1. Eureka Service - Discovery Server for all the microservices
